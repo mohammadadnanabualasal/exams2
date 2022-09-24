@@ -1,4 +1,4 @@
-package com.example.exams.controllers;
+package com.example.exams2.controllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

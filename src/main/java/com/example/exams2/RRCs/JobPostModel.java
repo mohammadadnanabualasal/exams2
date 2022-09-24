@@ -1,4 +1,4 @@
-package com.example.exams.RRCs;
+package com.example.exams2.RRCs;
 
 public class JobPostModel {
     long id;
