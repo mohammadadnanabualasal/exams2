@@ -11,7 +11,6 @@
 	<groupId>com.example</groupId>
 	<artifactId>exams2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<name>exams2</name>
 	<description>exams2</description>
 	<properties>
